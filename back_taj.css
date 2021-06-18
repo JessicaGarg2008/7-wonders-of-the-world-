@@ -1,0 +1,20 @@
+body{
+
+background-image: url("bgtm.jpg");
+
+background-position: center;
+
+background-attachment: fixed;
+
+background-size: cover;
+
+}
+
+img:hover{
+
+transform : scale(200,200);
+
+transform: translate(-50%, -50%);
+
+
+}
